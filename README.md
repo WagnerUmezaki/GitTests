@@ -1,4 +1,4 @@
 # GitTests
 Just for testing Git commands
 
-bla bla bla
+by Wagner Umezaki
